@@ -2,6 +2,9 @@
 
 ![Design preview for the Blogr landing page coding challenge](./design/desktop-preview.jpg)
 
+## URL
+https://blogr-landing-page-five.vercel.app/
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
