@@ -44,6 +44,7 @@ button {
 body {
     font-size: 1.6rem;
     font-family: 'Overpass', sans-serif;
+    overflow-x: hidden;
 }
 
 .container {
